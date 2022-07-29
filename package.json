@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.omi.ibooleanaccess",                              
+  "displayName": "IBooleanAccess",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package has interface and  class to access boolean without knowing from where the boolean come from.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_07_27_IBooleanAccess.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
